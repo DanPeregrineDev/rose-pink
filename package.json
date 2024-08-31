@@ -1,0 +1,21 @@
+{
+  "name": "rose-pink",
+  "displayName": "Rose Pink",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rose Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rose Pink-color-theme.json"
+      }
+    ]
+  }
+}
