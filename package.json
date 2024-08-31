@@ -4,7 +4,7 @@
   "description": "",
   "icon": "images/icon.png",
   "publisher": "herany",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.92.0"
   },
