@@ -2,7 +2,7 @@
   "name": "rose-pink",
   "displayName": "Dark Rose Pink",
   "description": "",
-  "icon": ".images/icon.png",
+  "icon": "images/icon.png",
   "publisher": "herany",
   "version": "1.0.1",
   "engines": {
