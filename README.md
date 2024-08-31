@@ -2,7 +2,9 @@
 
 A dark pink theme for vs-code
 
-![Theme preview](https://github.com/DanPeregrineDev/rose-pink/blob/master/images/1.png?raw=true)
+![Theme preview 1](https://github.com/DanPeregrineDev/rose-pink/blob/master/images/1.png?raw=true)
+
+![Theme preview 2](https://github.com/DanPeregrineDev/rose-pink/blob/master/images/2.png?raw=true)
 
 ## Installation
 
