@@ -1,16 +1,15 @@
-# rose-pink README
+# Rose Pink theme
 
-## Working with Markdown
+A dark pink theme for vs-code
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Theme preview](https://github.com/DanPeregrineDev/rose-pink/edit/master/preview/1.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open the extencions menu
+2. Search for 'Dark Rose Pink'
+3. Click on *install*
+4. Click on *reload* to reload the vs-code
+5. Click on the settings gear in the corder and go to > Themes > Color Theme > Rose Pink
 
 **Enjoy!**
